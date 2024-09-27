@@ -1,2 +1,3 @@
 # nginx-cache-age-module
-add variable to nginx for cache age
+
+This modules is copied of [[free-nginx 1.27.](https://freenginx.org/)] repo.
